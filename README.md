@@ -1,3 +1,31 @@
+# ⏱️ Zen Focus - Minimalist Desktop Pomodoro & Focus Timer
+
+**Developer:** [Serkan ŞENTÜRK](https://github.com/836982756578)  
+**Copyright:** © 2026 Serkan ŞENTÜRK. All Rights Reserved.  
+**License:** MIT  
+**Platform:** Windows 10 / 11 (64-bit & 32-bit Portable)  
+
+> Distraction-free, floating Pomodoro timer designed to boost productivity during deep work sessions.
+
+---
+
+## 🇬🇧 English Documentation
+
+### ✨ Key Features
+* ⏳ **Customizable Intervals:** Classic 25/5 Pomodoro, 50/10 intervals, or custom focus session durations.
+* 🪟 **Compact Mini Bar Mode:** Shrink the timer to an unobtrusive floating bar in a corner of your screen.
+* 🔔 **Subtle Audio & Visual Cues:** Soft notifications when focus and break intervals end.
+* 📈 **Daily Session Counter:** Keep track of completed focus blocks throughout the workday.
+
+### 📥 Download & Usage
+1. Download the latest portable .exe from the [Releases](https://github.com/836982756578/Zen-Focus/releases) section.
+2. Run directly — no installer or administrative privileges required.
+3. Enjoy an ultra-lightweight, native Windows experience!
+
+---
+
+## 🇹🇷 Türkçe Açıklama
+
 # ☯️ Zen Focus
 
 **Taşınabilir, Ultra Hafif Masaüstü Pomodoro & Odaklanma Sayacı**  
